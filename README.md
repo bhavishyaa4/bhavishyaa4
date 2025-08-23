@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Sunuwar</h1>
-
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Gamer+%F0%9F%8E%AE+%7C+Coder+%F0%9F%92%BB" alt="Typing SVG" />
-
 </div>
-
----
-
-## 🚀 About Me  
 
 - 🌱 Currently learning **React, Laravel, Python**  
 - 💬 Ask me about **Full Stack Development**  
